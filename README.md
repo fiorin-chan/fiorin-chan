@@ -3,9 +3,9 @@ About Me
 
 I'm Nazan. I'm a junior high school student who loves anime and programming.
 
-- :books: I'm currently learning Go, and TypeScript
+- :books: I'm currently learning Go and TypeScript
 - :tv: I watch anime when I get bored
-- :zap: I'm currently programming with my smartphone :iphone:
+- :zap: I'm currently programming with my smartphone
 
 GitHub Stats
 ---
