@@ -21,8 +21,6 @@ jobs:
           
           base: header, repositories
           
-          plugin_isocalendar: yes
-          
           plugin_traffic: yes
           
           plugin_languages: yes
