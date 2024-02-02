@@ -1,1 +1,11 @@
-Hi, my name is Nazan, a junior high school student who enjoys programming, listening to music, reading manga, watching anime, and thinking a bit.
+### About Me
+
+- 🌟 TypeScript / Go / Zig
+- 🗨️ Indonesian / Sundanese / English
+- 🔋 Termux / Fish / Nvim / Kiwi Browser
+- 🔌 Reading Manga / Watching Anime / Listening to Music
+- 🏠 West Java, Indonesia
+
+### metrics
+
+![metrics](./github-metrics.svg)
