@@ -1,3 +1,7 @@
+I don't have enough motivation for now. Revisit my profile next year
+
+<!--
+
 ### About Me
 
 - 🌟 TypeScript / Go / Zig
@@ -9,3 +13,5 @@
 ### metrics
 
 ![metrics](./github-metrics.svg)
+
+-->
