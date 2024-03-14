@@ -1,17 +1,21 @@
-I don't have enough motivation for now. Revisit my profile next year
+## Nazhard
 
-<!--
+Heyhyaaaa my name is Nazan, I am a **cute young teenager** who loves to programming.
+
+I love and hate AI, depending on how humans use it.
 
 ### About Me
 
-- 🌟 TypeScript / Go / Zig
-- 🗨️ Indonesian / Sundanese / English
-- 🔋 Termux / Fish / Nvim / Kiwi Browser
-- 🔌 Reading Manga / Watching Anime / Listening to Music
-- 🏠 West Java, Indonesia
+- FavLanguagwee: Go / TypeScript / Zig
+- I can speak: Indonesian / Sundanese / English
+- Environment: Termux / Fish / Helix / Kiwi Browser
+- Hobbwy: Reading Manga / Watching Anime / Listening to Music
+- I want to: Learning many things and be cute
 
-### metrics
+### Metrics
 
 ![metrics](./github-metrics.svg)
 
--->
+---
+
+My cute personal site: [nazhard.github.io](https://nazhard.github.io)
